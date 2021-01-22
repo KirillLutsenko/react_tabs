@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,WACE,YAAa,CACb,qBACF,CAEA,YACE,aACF,CAEA,WACE,eACF","file":"main.29fbc29c.chunk.css","sourcesContent":[".app {\n  text-align: center;\n}\n\n.app__tabs {\n  display: flex;\n  flex-direction: column;\n}\n\n.app__title {\n  margin: 30px 0;\n}\n\n.app__text {\n  margin-top: 30px;\n}\n"]}
